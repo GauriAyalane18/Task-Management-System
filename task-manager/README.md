@@ -162,7 +162,7 @@ Inside backend folder:
 
 - This project
 
-  - Github Repo: https://github.com/GauriAyalane18/Task-Management-System.git
+Github Repo: https://github.com/GauriAyalane18/Task-Management-System.git
 
 - Official Docs
 
